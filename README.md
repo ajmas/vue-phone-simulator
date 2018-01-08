@@ -57,5 +57,4 @@ Original author: Andre-John Mas
 ### Phone Templates
 
  - [iPhone 6](https://dribbble.com/shots/1719571-iPhone-6-Sketch-Template) by George Otsubo
- - [iPhone X](https://applypixels.com/template/iphone-x/) by Michael Flarup
  - [Google Pixel](https://dribbble.com/shots/3004465-Google-Pixel-Mockup) by Daniel Bolyhos 
